@@ -1,0 +1,160 @@
+*{
+    margin: auto;
+    padding: 0%;
+}
+.body{
+    max-width: 100%;
+}
+.first{
+    text-align: center;
+    margin-top: 100px;
+}
+.first1{
+    font-size: 40px;
+}
+.img1{
+    margin-left: 62%;
+    transform: translateX(-50%);
+    max-width: 100%;
+    width: 593px;
+    height: 700px;
+}
+
+
+
+
+
+.img1 {
+    margin-left: 50%; /* Adjusted from 62% */
+    transform: translateX(-50%);
+    max-width: 100%;
+    width: 100%; /* Adjusted from 593px */
+    height: auto; /* Adjusted from 700px */
+}
+
+.card{
+    width: 80%;
+    margin-bottom: 30px;
+    max-width: 100%;
+}
+
+.other{
+    box-sizing: border-box;
+    text-align: center;
+    height: 67px;
+    margin-top: 22px;
+    display: flex;
+}
+.card1{
+    background: #FFFFFF; 
+    box-shadow: 0px 10px 20px rgba(242, 101, 48, 0.16); 
+    border-radius: 2px;
+    margin-top: 0%;
+    margin-right: 17px;
+}
+.card11{
+    font-size: 12px;
+    margin-top: 13px;
+}
+.maid{
+    box-sizing: border-box;
+    text-align: center;
+    height: 67px;
+    margin-top: 22px;
+    display: flex;
+
+}
+
+.text{
+    margin: 25px;
+    font-size: 14px;
+   width: 50%;
+}
+.all{
+    margin-top: 70px;
+    height: 50px;
+    text-align: center;
+    padding-top: 18px;
+}
+
+
+
+.taget-text {
+    width: 100%;
+    text-align: center;
+    margin-top: 108px;
+    height: 113px;
+    /* / background-image: url(./Target.png); / */
+     
+
+}
+
+.tar {
+    width: 356px;
+    text-decoration: underline 1px;
+    /* color: rgba(31, 30, 88, 1); */
+    font-size: 29px;
+}
+
+.we {
+    font-size: 26px;
+    color: rgba(242, 101, 48, 1);
+
+}
+
+.card-ot {
+    /* / border: 0px; / */
+    height: 259px;
+    margin-top: 50px;
+}
+
+#img-ot {
+    margin-bottom: 2px;
+}
+
+.card-body-ot {
+    height: 80px;
+    padding: 25px;
+    background: rgba(3, 137, 166, 0.81);
+    color: white;
+    border-radius: 0px 0px 0px 40px;
+}
+
+#oh {
+    height: auto;
+    display: flex;
+
+}
+.text-icon{
+    text-align: center;
+}
+.social-icons{
+    list-style: none;
+    display: flex;
+    width: 148px;
+}
+#footer-container{
+    margin-top: 100px;
+}
+#footer-row{
+    background: rgba(105, 196, 217, 0.1);
+}
+.contact-icon-text{
+    display: flex;
+    gap: 23px;
+}
+#fc{
+    display: flex;
+    width: 93%;
+}
+.footer-ul{
+    list-style: none;
+}
+ul li a{
+    text-decoration: none;
+    color: rgba(3, 137, 166, 1);
+
+}
+
+
+

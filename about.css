@@ -1,0 +1,128 @@
+.card-ot{
+    margin: 15px;
+    
+    background-image: url(./nurse\ experience\ bg.png);
+    height: 90px;
+    width: 80%;
+}
+.About1{
+    margin-top: 50px;
+}
+.about02{
+   font-size: 60px;
+   color: #1F1E58;
+}
+.about03{
+    color: #0389A6;
+    font-size: 30px;
+}
+.nurse{
+    color: white;
+    background: #F26530;
+    border: 0px;
+    border-radius: 20px;
+}
+.para{
+    font-size: 25px;
+}
+.aboutrow{
+   
+    box-shadow: 0px 10px 30px 0px #0389A633;
+    padding: 65px;
+}
+.aboutcon{
+    margin: 30px;
+}
+.card-title{
+    font-size: 15px;
+   
+}
+.aboutimg{
+    width: 100%;
+    TEXT-ALIGN: end;
+    
+}
+.aboutimg01{
+    width: 60%;
+   
+    margin: 15px 0px 15px 15px; /* top right bottom left */
+}
+.abouth2{
+    color: #1F1E58;
+    font-size: 39px;
+
+}
+.aboutpara{
+    color: #0389A6;
+    font-size: 20px;
+}
+.aboutro{
+    background: #69C4D96E;
+
+}
+.aboutrow2{
+    background: #F265301A;
+
+}
+.aboutheading{
+    color: #1F1E58;
+    font-size: 50px;
+    padding: 50px 0px 0px 30px;
+
+}
+.para2{
+    color: #0389A6;
+    font-size: 22px;
+    padding-left: 25px;
+}
+.aboutcard{
+    width: 100%;
+    text-align: center;
+    display: flex;
+}
+.aboutcard01{
+    margin: 15px;
+    width: 30%;
+
+
+}
+.cardbody{
+
+    background: #F265301A;
+    border: 0px;
+    color: #0389A6;
+    font-size: 12px;
+box-shadow: 0px 2px 2px 0px  #F26530  ;
+}
+.cardrow{
+    box-shadow: 0px 10px 30px 0px #0389A633;
+    margin-top: 50px;
+    display: flex;
+}
+.cardh2{
+    text-align: center;
+    font-size: 37px;
+    padding-top: 51px;
+    color: #1F1E58;
+}
+.say{
+    color: #F26530;
+}
+.paracard{
+    text-align: center;
+    font-size: 20px;
+    color: #0389A6;
+}
+#imgcard{
+    background: #0389A6;
+    color: white;
+    margin: 20px;
+    padding: 20px;
+}
+.carddd{
+    display: flex;
+ 
+}
+.imggcard{
+   width: 40%
+}

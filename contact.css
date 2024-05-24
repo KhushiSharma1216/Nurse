@@ -1,0 +1,40 @@
+*{
+    margin: auto;
+    padding: 0%;
+}
+
+.contact{
+   
+    height: auto;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 20px;
+    border-bottom-left-radius: 113px;
+    background-color:   #0389A6;
+}
+.contact2{
+    text-align: center;
+    margin-top: 30px;
+    color:  #17608B;
+    font-size: 30px;
+}
+
+.card1{
+    display: flex;
+    height: 100px;
+}
+.cardd{
+    margin-right: 10px;
+    width: 20%;
+}
+.form-group{
+    margin: 15px;
+}
+
+.all{
+    margin-top: 70px;
+    height: 50px;
+    text-align: center;
+    padding-top: 18px;
+}
+
